@@ -1,4 +1,4 @@
-# ECAM
+# ECAM5
 HTML5 rendering of EICAS CRJ
 
 CRJ EICAS using HTML5
