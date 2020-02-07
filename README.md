@@ -3,5 +3,5 @@ HTML5 rendering of EICAS CRJ
 
 CRJ EICAS using HTML5
 
-Plan on taking packet from data getter ExtPlane possibly
-convert to Websocket then send using JSON to HTML rendering
+python client rx's XHSI packets and forwards it on WebSocketServer.
+sends data using JSON thrn rendered with HTML rendering
